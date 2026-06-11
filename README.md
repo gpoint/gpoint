@@ -1,8 +1,7 @@
-## Hi there 👋
 
-<!--# Hey, I'm Favour 👋
+# Hey, I'm Eze.
 
-I'm a technical founder and builder based in **Abuja, Nigeria** — operating across fintech platforms, full-stack client work, algorithmic trading systems, and book production. I move fast across stacks and domains, and I care deeply about building things that actually work.
+I'm a technical founder and builder based in **Abuja, Nigeria**, operating across fintech platforms, full-stack client work, algorithmic trading systems, and book production. I move fast across stacks and domains, and I care deeply about building things that actually work.
 
 ---
 
@@ -14,7 +13,7 @@ A platform connecting early-stage founders with investors via SAFEs and VC appli
 - **Status:** MVP stage
 
 ### *Black Economics* — Book Production
-Contributing to a movement book about economic liberation through ownership by Chibueze Ehighibe. Currently deep in **Part III: The Shift** — the warmest, most human section of the book.
+Contributing to a movement book about economic liberation through ownership by Chibueze Ehighibe. Currently deep in **Part III: The Shift**, the warmest, most human section of the book.
 
 ---
 
@@ -35,4 +34,4 @@ Abuja, Nigeria — building for the continent and beyond.
 
 ## 📫 Let's Connect
 
-If you're building something in fintech, trading infrastructure, or platform products in Africa — let's talk.
+If you're building something in fintech, trading infrastructure, or platform products in Africa, let's talk.
